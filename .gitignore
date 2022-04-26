@@ -1,0 +1,10 @@
+__pycache__/
+/venv
+/.idea
+/launcherfiles
+/server/app/yolauncher/launcherfiles/*
+!server/app/yolauncher/launcherfiles/.gitkeep
+/.vscode
+.dockerignore
+Dockerfile
+/.pytest_cache

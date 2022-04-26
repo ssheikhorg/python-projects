@@ -1,0 +1,16 @@
+python-dotenv
+fastapi
+jinja2
+uvicorn[standard]
+aiofiles
+pydantic
+pydantic[email]
+stripe
+motor
+pymongo
+pymongo[srv]
+python-multipart
+starlette
+pytest
+pytest-asyncio
+setuptools
